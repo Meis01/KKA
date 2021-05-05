@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_EntityFramework.CLIENT", "API_EntityFramework.CLIENT\API_EntityFramework.CLIENT.csproj", "{60D950D3-3713-4FF3-96E0-17A3BA3EFFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_EntityFramework.SERVICE", "API_EntityFramework.SERVICE\API_EntityFramework.SERVICE.csproj", "{6312CAFE-09BF-4BC1-BBBD-BFD3F925D057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D950D3-3713-4FF3-96E0-17A3BA3EFFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D950D3-3713-4FF3-96E0-17A3BA3EFFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D950D3-3713-4FF3-96E0-17A3BA3EFFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D950D3-3713-4FF3-96E0-17A3BA3EFFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6312CAFE-09BF-4BC1-BBBD-BFD3F925D057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6312CAFE-09BF-4BC1-BBBD-BFD3F925D057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6312CAFE-09BF-4BC1-BBBD-BFD3F925D057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6312CAFE-09BF-4BC1-BBBD-BFD3F925D057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FEF2854-5D63-4F62-B309-B8080ED5545B}
+	EndGlobalSection
+EndGlobal
